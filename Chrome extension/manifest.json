@@ -1,0 +1,16 @@
+
+{
+    "name": "VLE Test",
+    "version": "1.0.0",
+    "description": "Shortcut to VLE",
+    "manifest_version": 3,
+    "author": "Faizaan Ahmed",
+    "permissions": ["storage", "declarativeContent", "activeTab", "scripting"],
+    "host_permissions": [""],
+    "action":
+    {
+    "default_popup": "index.html",
+    "default_title": "VLE Shortcut"
+    }
+
+}
